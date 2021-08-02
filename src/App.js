@@ -69,7 +69,7 @@ function App() {
           Recepe Finder
         </AppNameComponent>
         <SearchComponent>
-          <SearchIcon src="/search-icon.svg" />
+          <SearchIcon src="search-icon.svg" />
           <SearchInput placeholder="search recipe" onChange={onTextChanged} />
         </SearchComponent>
       </Header>
